@@ -5,4 +5,6 @@ import jakarta.persistence.Entity;
 @Entity
 public class Usuario {
 
+    private Long id;
+
 }
